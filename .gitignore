@@ -192,3 +192,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+#Aggiuntivo for webscraping.
+.env
+credentials.json
+token.json
+.streamlit/
+email_tracking_log.json
+oauth_tokens/
